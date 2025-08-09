@@ -12,7 +12,4 @@ galaxy_info:
         - 2023
         - all
 
-  role_name: ansible-noteapp
-  namespace: laurayasser  
-
 dependencies: []
